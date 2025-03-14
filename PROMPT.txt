@@ -1,0 +1,34 @@
+take the following
+
+Technik with Ease Live Call vom 06.03.2025
+<p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185946932?wvideo=ozdat3s7o4"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/49315/products/6f2ec26a-d145-4d2b-963b-6d9348e41792.jpg" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185946932?wvideo=ozdat3s7o4">Ladylight® Mitgliederbereich</a></p>
+
+Technik with Ease Live Call vom 07.03.2025
+<p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185767511?wvideo=uahv2gj308"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/49315/products/9ff381f8-480b-402b-b3ea-36b6584fa440.jpg" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185767511?wvideo=uahv2gj308">Ladylight® Mitgliederbereich</a></p>
+
+Technik with Ease Live Call vom 08.03.2025
+<p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185640482?wvideo=hbp7xw9j5v"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/49315/products/da9d38e9-dd52-4558-badf-02671d79966e.jpg" width="400" height="236.25" style="width: 400px; height: 236.25px;"></a></p><p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185640482?wvideo=hbp7xw9j5v">Ladylight® Mitgliederbereich</a></p>
+
+Technik with Ease Live Call vom 09.03.2025
+<p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185388803?wvideo=u2rtuzerxh"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/49315/products/f816a551-7188-4099-a5eb-5947151cc9fe.jpg" width="400" height="266.25" style="width: 400px; height: 266.25px;"></a></p><p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185388803?wvideo=u2rtuzerxh">Ladylight® Mitgliederbereich</a></p>
+
+Technik with Ease Live Call vom 19.03.2025
+<p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185206489?wvideo=i3xseosf0q"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/49315/products/e1ab5c24-d5d5-4697-97b2-b05c6740aba7.jpg" width="400" height="235" style="width: 400px; height: 235px;"></a></p><p><a href="https://members.ladylight.com/products/live-call-aufzeichnungen-kunden-in-hulle-und-fulle/categories/2777277/posts/2185206489?wvideo=i3xseosf0q">Ladylight® Mitgliederbereich</a></p>
+
+use the query parameter value ?wvideo= the link from the a-tag for the wistia_id
+the following folder name "Facebook Ads Videos1"
+and as the name the text above the tag
+
+{
+  "videos": [
+    {
+      "name": "",
+      "wistia_id": "",
+      "folder_name": ""
+    },
+    {
+      "name": "",
+      "wistia_id": "",
+      "folder_name": "
+    },
+}
