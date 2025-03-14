@@ -1,7 +1,3 @@
-Here are the requested files:  
-
-### `README.md`
-```md
 # Wistia
 
 Wistia is a Python project that utilizes the `wisty` package.
@@ -36,11 +32,3 @@ python main.py
 ## License
 
 This project is licensed under the MIT License.
-```
-
-### `requirements.txt`
-```
-wisty==1.0.0
-```  
-
-Let me know if you need any modifications! 🚀
